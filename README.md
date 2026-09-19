@@ -1,5 +1,3 @@
-#output:
-
 ✅ Found 1 controller(s)
 
 ==============================
